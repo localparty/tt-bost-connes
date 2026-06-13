@@ -702,37 +702,37 @@ Any errors of attribution or interpretation are my own.
 
 ## References
 
-\bibitem{AW68} **Araki, H.; Woods, E. J.** *A classification of factors.* Publications of the Research Institute for Mathematical Sciences, Kyoto University, Series A, Vol. 4 (1968), pp. 51–130. DOI: [10.2977/prims/1195195263](https://doi.org/10.2977/prims/1195195263).
+<!-- \bibitem{AW68} --> **Araki, H.; Woods, E. J.** *A classification of factors.* Publications of the Research Institute for Mathematical Sciences, Kyoto University, Series A, Vol. 4 (1968), pp. 51–130. DOI: [10.2977/prims/1195195263](https://doi.org/10.2977/prims/1195195263).
 
-\bibitem{BC95} **Bost, J.-B.; Connes, A.** *Hecke algebras, type III factors and phase transitions with spontaneous symmetry breaking in number theory.* Selecta Mathematica (New Series), Vol. 1, Issue 3 (1995), pp. 411–457. DOI: [10.1007/BF01589495](https://doi.org/10.1007/BF01589495).
+<!-- \bibitem{BC95} --> **Bost, J.-B.; Connes, A.** *Hecke algebras, type III factors and phase transitions with spontaneous symmetry breaking in number theory.* Selecta Mathematica (New Series), Vol. 1, Issue 3 (1995), pp. 411–457. DOI: [10.1007/BF01589495](https://doi.org/10.1007/BF01589495).
 
-\bibitem{BR97} **Bratteli, O.; Robinson, D. W.** *Operator Algebras and Quantum Statistical Mechanics II: Equilibrium States. Models in Quantum Statistical Mechanics.* Texts and Monographs in Physics, Springer-Verlag, Berlin, 2nd edition, 1997. DOI: [10.1007/978-3-662-09089-3](https://doi.org/10.1007/978-3-662-09089-3); ISBN: 978-3-540-61443-2.
+<!-- \bibitem{BR97} --> **Bratteli, O.; Robinson, D. W.** *Operator Algebras and Quantum Statistical Mechanics II: Equilibrium States. Models in Quantum Statistical Mechanics.* Texts and Monographs in Physics, Springer-Verlag, Berlin, 2nd edition, 1997. DOI: [10.1007/978-3-662-09089-3](https://doi.org/10.1007/978-3-662-09089-3); ISBN: 978-3-540-61443-2.
 
-\bibitem{BR87} **Bratteli, O.; Robinson, D. W.** *Operator Algebras and Quantum Statistical Mechanics I: C\*- and W\*-Algebras, Symmetry Groups, Decomposition of States.* Texts and Monographs in Physics, Springer-Verlag, Berlin, 2nd edition, 1987. DOI: [10.1007/978-3-662-02520-8](https://doi.org/10.1007/978-3-662-02520-8); ISBN: 978-3-540-17093-8.
+<!-- \bibitem{BR87} --> **Bratteli, O.; Robinson, D. W.** *Operator Algebras and Quantum Statistical Mechanics I: C\*- and W\*-Algebras, Symmetry Groups, Decomposition of States.* Texts and Monographs in Physics, Springer-Verlag, Berlin, 2nd edition, 1987. DOI: [10.1007/978-3-662-02520-8](https://doi.org/10.1007/978-3-662-02520-8); ISBN: 978-3-540-17093-8.
 
-\bibitem{CCM25} **Connes, A.; Consani, C.; Moscovici, H.** *Prolate spheroidal operators and the Bost–Connes spectral realization.* arXiv preprint, [arXiv:2511.22755](https://arxiv.org/abs/2511.22755) (2025).
+<!-- \bibitem{CCM25} --> **Connes, A.; Consani, C.; Moscovici, H.** *Prolate spheroidal operators and the Bost–Connes spectral realization.* arXiv preprint, [arXiv:2511.22755](https://arxiv.org/abs/2511.22755) (2025).
 
-\bibitem{CEL13} **Cuntz, J.; Echterhoff, S.; Li, X.** *On the K-theory of crossed products by automorphic semigroup actions.* The Quarterly Journal of Mathematics, Vol. 64, Issue 3 (2013), pp. 747–784. DOI: [10.1093/qmath/hat021](https://doi.org/10.1093/qmath/hat021).
+<!-- \bibitem{CEL13} --> **Cuntz, J.; Echterhoff, S.; Li, X.** *On the K-theory of crossed products by automorphic semigroup actions.* The Quarterly Journal of Mathematics, Vol. 64, Issue 3 (2013), pp. 747–784. DOI: [10.1093/qmath/hat021](https://doi.org/10.1093/qmath/hat021).
 
-\bibitem{CMR05} **Connes, A.; Marcolli, M.; Ramachandran, N.** *KMS states and complex multiplication.* Selecta Mathematica (New Series), Vol. 11, Issue 3-4 (2005), pp. 325–347. DOI: [10.1007/s00029-005-0013-x](https://doi.org/10.1007/s00029-005-0013-x).
+<!-- \bibitem{CMR05} --> **Connes, A.; Marcolli, M.; Ramachandran, N.** *KMS states and complex multiplication.* Selecta Mathematica (New Series), Vol. 11, Issue 3-4 (2005), pp. 325–347. DOI: [10.1007/s00029-005-0013-x](https://doi.org/10.1007/s00029-005-0013-x).
 
-\bibitem{CM08} **Connes, A.; Marcolli, M.** *Noncommutative Geometry, Quantum Fields and Motives.* American Mathematical Society Colloquium Publications, Vol. 55. AMS, Providence, RI, 2008. DOI: [10.1090/coll/055](https://doi.org/10.1090/coll/055); ISBN: 978-0-8218-4210-2.
+<!-- \bibitem{CM08} --> **Connes, A.; Marcolli, M.** *Noncommutative Geometry, Quantum Fields and Motives.* American Mathematical Society Colloquium Publications, Vol. 55. AMS, Providence, RI, 2008. DOI: [10.1090/coll/055](https://doi.org/10.1090/coll/055); ISBN: 978-0-8218-4210-2.
 
-\bibitem{Con73} **Connes, A.** *Une classification des facteurs de type III.* Annales scientifiques de l'École Normale Supérieure, 4ᵉ série, tome 6, no. 2 (1973), pp. 133–252. DOI: [10.24033/asens.1247](https://doi.org/10.24033/asens.1247).
+<!-- \bibitem{Con73} --> **Connes, A.** *Une classification des facteurs de type III.* Annales scientifiques de l'École Normale Supérieure, 4ᵉ série, tome 6, no. 2 (1973), pp. 133–252. DOI: [10.24033/asens.1247](https://doi.org/10.24033/asens.1247).
 
-\bibitem{Con76} **Connes, A.** Classification of injective factors. Cases $\mathrm{II}\_1$, $\mathrm{II}\_\infty$, $\mathrm{III}\_\lambda$, $\lambda \neq 1$. Annals of Mathematics, Vol. 104, No. 1 (1976), pp. 73–115. DOI: [10.2307/1971057](https://doi.org/10.2307/1971057).
+<!-- \bibitem{Con76} --> **Connes, A.** Classification of injective factors. Cases $\mathrm{II}\_1$, $\mathrm{II}\_\infty$, $\mathrm{III}\_\lambda$, $\lambda \neq 1$. Annals of Mathematics, Vol. 104, No. 1 (1976), pp. 73–115. DOI: [10.2307/1971057](https://doi.org/10.2307/1971057).
 
-\bibitem{Haa87} **Haagerup, U.** Connes' bicentralizer problem and uniqueness of the injective factor of type $\mathrm{III}\_1$. Acta Mathematica, Vol. 158 (1987), pp. 95–148. DOI: [10.1007/BF02392257](https://doi.org/10.1007/BF02392257).
+<!-- \bibitem{Haa87} --> **Haagerup, U.** Connes' bicentralizer problem and uniqueness of the injective factor of type $\mathrm{III}\_1$. Acta Mathematica, Vol. 158 (1987), pp. 95–148. DOI: [10.1007/BF02392257](https://doi.org/10.1007/BF02392257).
 
-\bibitem{LLN09} **Laca, M.; Larsen, N. S.; Neshveyev, S.** *On Bost–Connes type systems for number fields.* Journal of Number Theory, Vol. 129, Issue 2 (2009), pp. 325–338. DOI: [10.1016/j.jnt.2008.09.008](https://doi.org/10.1016/j.jnt.2008.09.008).
+<!-- \bibitem{LLN09} --> **Laca, M.; Larsen, N. S.; Neshveyev, S.** *On Bost–Connes type systems for number fields.* Journal of Number Theory, Vol. 129, Issue 2 (2009), pp. 325–338. DOI: [10.1016/j.jnt.2008.09.008](https://doi.org/10.1016/j.jnt.2008.09.008).
 
-\bibitem{Pow67} **Powers, R. T.** *Representations of uniformly hyperfinite algebras and their associated von Neumann rings.* Annals of Mathematics, Vol. 86, No. 1 (1967), pp. 138–171. DOI: [10.2307/1970364](https://doi.org/10.2307/1970364).
+<!-- \bibitem{Pow67} --> **Powers, R. T.** *Representations of uniformly hyperfinite algebras and their associated von Neumann rings.* Annals of Mathematics, Vol. 86, No. 1 (1967), pp. 138–171. DOI: [10.2307/1970364](https://doi.org/10.2307/1970364).
 
-\bibitem{Tak70} **Takesaki, M.** *Tomita's Theory of Modular Hilbert Algebras and its Applications.* Lecture Notes in Mathematics, Vol. 128. Springer-Verlag, Berlin, 1970. DOI: [10.1007/BFb0065832](https://doi.org/10.1007/BFb0065832); ISBN: 978-3-540-04917-3.
+<!-- \bibitem{Tak70} --> **Takesaki, M.** *Tomita's Theory of Modular Hilbert Algebras and its Applications.* Lecture Notes in Mathematics, Vol. 128. Springer-Verlag, Berlin, 1970. DOI: [10.1007/BFb0065832](https://doi.org/10.1007/BFb0065832); ISBN: 978-3-540-04917-3.
 
-\bibitem{Tak03} **Takesaki, M.** *Theory of Operator Algebras II.* Encyclopaedia of Mathematical Sciences, Vol. 125 (Operator Algebras and Non-Commutative Geometry VI), Springer-Verlag, Berlin, 2003. DOI: [10.1007/978-3-662-10451-4](https://doi.org/10.1007/978-3-662-10451-4); ISBN: 978-3-540-42914-2.
+<!-- \bibitem{Tak03} --> **Takesaki, M.** *Theory of Operator Algebras II.* Encyclopaedia of Mathematical Sciences, Vol. 125 (Operator Algebras and Non-Commutative Geometry VI), Springer-Verlag, Berlin, 2003. DOI: [10.1007/978-3-662-10451-4](https://doi.org/10.1007/978-3-662-10451-4); ISBN: 978-3-540-42914-2.
 
-\bibitem{Tom67} **Tomita, M.** *Standard form of von Neumann algebras.* Mimeographed preprint, The Fifth Functional Analysis Symposium of the Mathematical Society of Japan, Mathematical Institute, Tōhoku University, Sendai, 1967. (In Japanese; circulated as preprint; the theory was subsequently developed by Takesaki [Tak70].)
+<!-- \bibitem{Tom67} --> **Tomita, M.** *Standard form of von Neumann algebras.* Mimeographed preprint, The Fifth Functional Analysis Symposium of the Mathematical Society of Japan, Mathematical Institute, Tōhoku University, Sendai, 1967. (In Japanese; circulated as preprint; the theory was subsequently developed by Takesaki [Tak70].)
 
 ---
 
