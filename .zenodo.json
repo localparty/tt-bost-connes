@@ -1,0 +1,35 @@
+{
+  "title": "Tomita–Takesaki modular theory of the Bost–Connes algebra at β = 1, formalized in Lean 4",
+  "description": "<p>Companion repository to the math.OA submission. The paper develops the Tomita–Takesaki modular theory of the Bost–Connes C*-dynamical system (Bₖ, αₜ, ω₁) for K = ℚ(i) at the critical KMS state β = 1, with five main results (Theorems A–E) formalized in Lean 4 against pinned Mathlib SHA 5e932f97. Theorem C is unconditional via Takesaki's KMS-uniqueness theorem [BR97, Thm. 5.3.10]. Scope partition, axiom inventory, and Mathlib Integration Roadmap are documented at §1.5, §8, and §9 of the preprint. The Lean 4 formalization (Mathlib v4.29.1, SHA 5e932f97) is included as a Git submodule and verifies the structural scaffold of every theorem with zero <code>sorry</code> count.</p><p>Substrate inventory: eight named programme-level axioms (six carrying documented literature citations, two recording Mathlib infrastructure gaps with documented discharge paths), six scaffold-layer placeholders, and one Lean substrate hypothesis (<code>hSubstrate_iii</code> for Theorem C). The Mathlib Integration Roadmap (§9) names four upstream tasks each deferred to a dedicated Mathlib PR rather than bundled into the present submission. A 230-line file <code>Antilinear.lean</code> developing polar decomposition for unbounded antilinear operators addresses a current gap in Mathlib and is proposed for upstream contribution.</p><p>During the preparation of this work, the author used Claude Opus 4.7.</p>",
+  "creators": [
+    {
+      "name": "Six, G",
+      "affiliation": "San Francisco, CA, USA"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "Tomita-Takesaki theory",
+    "Bost-Connes algebra",
+    "KMS states",
+    "type III₁ factor",
+    "ITPFI factorization",
+    "modular automorphism group",
+    "Lean 4 formalization",
+    "Mathlib",
+    "Antilinear polar decomposition",
+    "operator algebras"
+  ],
+  "communities": [
+    {"identifier": "math"}
+  ],
+  "subjects": [
+    {"term": "46L36 (Classification of factors)", "scheme": "msc-2020"},
+    {"term": "46L60 (Applications of selfadjoint operator algebras to physics)", "scheme": "msc-2020"},
+    {"term": "82B10 (Quantum statistical mechanics, general)", "scheme": "msc-2020"},
+    {"term": "68V20 (Formal mathematics)", "scheme": "msc-2020"}
+  ],
+  "language": "eng"
+}
