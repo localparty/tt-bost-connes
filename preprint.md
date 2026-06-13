@@ -191,7 +191,7 @@ We now construct the GNS triple $(H_R, \pi_{\omega_1}, \Omega_1)$ of $(B_K, \ome
 For any state $\omega$ on a C\*-algebra $A$, the **null ideal** is
 
 $$
-I_\omega \;:=\; \{\, a \in A : \omega(a^* a) = 0 \,\}.
+I_\omega \;:=\; \lbrace\, a \in A : \omega(a^* a) = 0 \,\rbrace.
 $$
 
 **Lemma 3.1.** $I_{\omega_1}$ is a closed left ideal of $B_K$.
@@ -361,7 +361,7 @@ $$
 The product structure of Proposition 4.3 is the structural input used in §5 for the relationship between the modular automorphism group $\sigma_t$ and the arithmetic time evolution $\alpha_t$. The spectrum of $\Delta$ inherited from the product structure satisfies
 
 $$
-\mathrm{spec}(\Delta) \;=\; \overline{\bigl\{\, \prod_{\mathfrak{p} \in F}\, (N\mathfrak{p})^{k_\mathfrak{p}} \;:\; F \text{ finite},\ k_\mathfrak{p} \in \mathbb{Z}\,\bigr\}} \;=\; [0, \infty),
+\mathrm{spec}(\Delta) \;=\; \overline{\bigl\lbrace\, \prod_{\mathfrak{p} \in F}\, (N\mathfrak{p})^{k_\mathfrak{p}} \;:\; F \text{ finite},\ k_\mathfrak{p} \in \mathbb{Z}\,\bigr\rbrace} \;=\; [0, \infty),
 $$
 
 where the closure step uses the density of $\{(N\mathfrak p)^k : k \in \mathbb Z,\ \mathfrak p\}$ in $(0, \infty)$, which is the Araki–Woods criterion for type $\mathrm{III}\_1$ ([AW68, Thm. 4.4] and §3 above). This recovers the type $\mathrm{III}\_1$ identification of Theorem A from the modular-theoretic side and closes the loop between the polar-decomposition construction and the factor classification.
@@ -521,7 +521,7 @@ on the spectral subspace where $\Delta$ is invertible (the orthogonal complement
 (ii) The spectrum of $D_\infty$ is the image of $\mathrm{spec}(\Delta) \setminus \{0\}$ under $\log$:
 
 $$
-\mathrm{spec}(D_\infty) \;=\; \log\bigl(\mathrm{spec}(\Delta) \setminus \{0\}\bigr) \;=\; \mathbb{R}.
+\mathrm{spec}(D_\infty) \;=\; \log\bigl(\mathrm{spec}(\Delta) \setminus \lbrace 0 \rbrace\bigr) \;=\; \mathbb{R}.
 $$
 
 (iii) On the dense subspace of finite simple tensors of the ITPFI factorization (Proposition 4.3), $D_\infty$ is the diagonalized infinite sum
