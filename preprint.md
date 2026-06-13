@@ -1,6 +1,6 @@
-# Tomita–Takesaki modular theory of the Bost–Connes algebra at β = 1, formalized in Lean 4
+# Tomita–Takesaki modular theory of the Bost–Connes algebra at β = 1, formalized in Lean 4²
 
-**G Six**¹ ²
+**G Six**¹
 
 *San Francisco, CA, USA*
 
