@@ -4,6 +4,9 @@
 
 *G Six. math.OA submission, 2026.*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20674870.svg)](https://doi.org/10.5281/zenodo.20674870)
+[![Lean substrate DOI](https://img.shields.io/badge/Lean%20substrate-10.5281%2Fzenodo.20674891-blue)](https://doi.org/10.5281/zenodo.20674891)
+
 This repository hosts the paper and its Lean 4 formalization. The paper develops the Tomita–Takesaki modular theory of the Bost–Connes C\*-dynamical system $(B_K, \alpha_t, \omega_1)$ for $K = \mathbb{Q}(i)$ at the critical KMS state $\beta = 1$, with all five main results (Theorems A–E) formalized in Lean 4 against a pinned Mathlib revision.
 
 ## Repository contents
