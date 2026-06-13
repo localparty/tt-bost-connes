@@ -91,7 +91,7 @@ This section recalls the construction of the Bost–Connes C\*-algebra $B_K$ for
 
 ### §2.1. The algebra $B_K$ for $K = \mathbb Q(i)$
 
-Throughout, $K = \mathbb Q(i)$ is the Gaussian field, $\mathfrak o_K = \mathbb Z[i]$ is its ring of integers, $\mathfrak o_K^\times = \{\pm 1, \pm i\}$ is the group of units, and $\widehat{\mathfrak o_K} = \prod_\mathfrak p\, \mathfrak o_{K,\mathfrak p}$ is the profinite completion of $\mathfrak o_K$ at its non-archimedean places. Let $I_K^+$ denote the multiplicative semigroup of nonzero integral ideals of $\mathfrak o_K$, and write $N\mathfrak a := \#(\mathfrak o_K / \mathfrak a) \in \mathbb Z_{>0}$ for the absolute norm of an ideal $\mathfrak a \in I_K^+$.
+Throughout, $K = \mathbb Q(i)$ is the Gaussian field, $\mathfrak o_K = \mathbb Z[i]$ is its ring of integers, $\mathfrak o_K^\times = \{\pm 1, \pm i\}$ is the group of units, and $\widehat{\mathfrak o_K} = \prod_\mathfrak p\, \mathfrak o_{K,\mathfrak p}$ is the profinite completion of $\mathfrak o_K$ at its non-archimedean places. Let $I_K^+$ denote the multiplicative semigroup of nonzero integral ideals of $\mathfrak o_K$, and write $N\mathfrak a := \char35(\mathfrak o_K / \mathfrak a) \in \mathbb Z_{>0}$ for the absolute norm of an ideal $\mathfrak a \in I_K^+$.
 
 Following [BC95] (in the case $K = \mathbb Q$), the work of Connes, Marcolli, and Ramachandran [CMR05], and [CM08, Ch. III, §3] (in the present imaginary-quadratic case), the **Bost–Connes C\*-algebra of $K$** is the C\*-algebra
 
