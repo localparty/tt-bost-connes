@@ -1,3 +1,0 @@
-[submodule "formalization"]
-	path = formalization
-	url = https://github.com/localparty/tt-bost-connes-lean.git
